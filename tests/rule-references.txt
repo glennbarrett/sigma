@@ -3646,3 +3646,17 @@ https://csirt-cti.net/2024/02/01/stately-taurus-continued-new-information-on-cyb
 https://www.linkedin.com/pulse/exploit-available-dangerous-ms-office-rce-vuln-called-thebenygreen-
 https://learn.microsoft.com/en-us/windows/win32/intl/code-page-identifiers
 https://web.archive.org/web/20200929062532/https://blog.menasec.net/2019/02/threat-hunting-rdp-hijacking-via.html
+https://tria.ge/231212-r1bpgaefar/behavioral2
+https://www.socinvestigation.com/most-common-windows-event-ids-to-hunt-mind-map/
+https://github.com/redcanaryco/atomic-red-team/blob/master/atomics/T1562.004/T1562.004.md#atomic-test-24---set-a-firewall-rule-using-new-netfirewallrule
+https://forensicitguy.github.io/xloader-formbook-velvetsweatshop-spreadsheet/
+https://research.checkpoint.com/2023/the-rhysida-ransomware-activity-analysis-and-ties-to-vice-society/
+https://www.virustotal.com/gui/file/602f4ae507fa8de57ada079adff25a6c2a899bd25cd092d0af7e62cdb619c93c/behavior
+https://app.any.run/tasks/ec207948-4916-47eb-a0f4-4c6abb2e7668/
+https://www.loobins.io/binaries/launchctl/
+https://www.virustotal.com/gui/file/b4b1fc65f87b3dcfa35e2dbe8e0a34ad9d8a400bec332025c0a2e200671038aa/behavior
+https://www.sentinelone.com/labs/ranzy-ransomware-better-encryption-among-new-features-of-thunderx-derivative/
+https://www.bleepingcomputer.com/news/security/hackers-exploit-windows-smartscreen-flaw-to-drop-darkgate-malware/
+https://evasions.checkpoint.com/techniques/macos.html
+https://thehackernews.com/2024/03/github-rolls-out-default-secret.html
+https://www.virustotal.com/gui/file/1c547a064494a35d6b5e6b459de183ab2720a22725e082bed6f6629211f7abc1/behavior
