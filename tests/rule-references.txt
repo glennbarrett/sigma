@@ -3646,3 +3646,16 @@ https://csirt-cti.net/2024/02/01/stately-taurus-continued-new-information-on-cyb
 https://www.linkedin.com/pulse/exploit-available-dangerous-ms-office-rce-vuln-called-thebenygreen-
 https://learn.microsoft.com/en-us/windows/win32/intl/code-page-identifiers
 https://web.archive.org/web/20200929062532/https://blog.menasec.net/2019/02/threat-hunting-rdp-hijacking-via.html
+https://www.loobins.io/binaries/launchctl/
+https://confluence.atlassian.com/bitbucketserver/view-and-configure-the-audit-log-776640417.html
+https://www.bleepingcomputer.com/news/security/microsoft-exchange-servers-hacked-to-deploy-hive-ransomware/
+https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.management/stop-service?view=powershell-7.4
+https://github.com/wavestone-cdt/EDRSandblast
+https://github.com/pr0xylife/Pikabot/blob/main/Pikabot_22.12.2023.txt
+https://github.com/thinkst/opencanary/blob/a0896adfcaf0328cfd5829fe10d2878c7445138e/opencanary/logger.py#L52
+https://thehackernews.com/2024/01/systembc-malwares-c2-server-analysis.html
+https://www.fortiguard.com/psirt/FG-IR-22-398
+https://cloud.google.com/access-context-manager/docs/audit-logging
+https://www.sans.org/blog/protecting-privileged-domain-accounts-lm-hashes-the-good-the-bad-and-the-ugly/
+https://support.google.com/a/answer/9261439
+https://www.elastic.co/guide/en/security/current/potential-non-standard-port-ssh-connection.html
