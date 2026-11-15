@@ -3646,3 +3646,12 @@ https://csirt-cti.net/2024/02/01/stately-taurus-continued-new-information-on-cyb
 https://www.linkedin.com/pulse/exploit-available-dangerous-ms-office-rce-vuln-called-thebenygreen-
 https://learn.microsoft.com/en-us/windows/win32/intl/code-page-identifiers
 https://web.archive.org/web/20200929062532/https://blog.menasec.net/2019/02/threat-hunting-rdp-hijacking-via.html
+https://posts.specterops.io/the-tale-of-settingcontent-ms-files-f1ea253e4d39
+https://www.intrinsec.com/alphv-ransomware-gang-analysis/?cn-reloaded=1
+https://kubernetes.io/docs/tasks/manage-kubernetes-objects/update-api-object-kubectl-patch
+https://www.hexacorn.com/blog/2013/01/19/beyond-good-ol-run-key-part-3/
+https://www.huntress.com/blog/slashandgrab-screen-connect-post-exploitation-in-the-wild-cve-2024-1709-cve-2024-1708
+https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2008-R2-and-2008/dd299871(v=ws.10)
+https://unit42.paloaltonetworks.com/chromeloader-malware/
+https://www.hexacorn.com/blog/2018/05/28/beyond-good-ol-run-key-part-78-2/
+https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/schtasks-create
